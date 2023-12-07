@@ -1,0 +1,2 @@
+# IS2-Kata3
+Desarrollar una aplicación Java que utilice Maven para la gestión de dependencias y JFreeChart para la visualización de datos en forma de histogramas o diagramas de barras. Se debe ampliar una aplicación Java existente, basándose en la kata anterior, para incorporar la visualización de datos. Los datos pueden ser conjuntos de números, frecuencias de palabras, resultados de encuestas, etc.
