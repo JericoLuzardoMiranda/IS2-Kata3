@@ -20,5 +20,8 @@ public class MainFrame extends JFrame {
         return display;
     }
 
+    public HistogramDisplay histogramDisplay() {
+        return histogramDisplay;
+    }
 
 }
